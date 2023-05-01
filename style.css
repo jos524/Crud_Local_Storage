@@ -1,21 +1,21 @@
 body {
-  background: #1d2630;
+    background: #1d2630;
 }
 
 * {
-  color: #fff;
+    color: #fff;
 }
 
 #btnAtualizar,
 #btnCancelar {
-  display: none;
-  flex-direction: column;
+    display: none;
+    flex-direction: column;
 }
 
 #btnCancelar {
-  margin-top: 10px;
+    margin-top: 10px;
 }
 
 h2 {
-  text-align: center;
+    text-align: center;
 }
